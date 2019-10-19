@@ -8,3 +8,4 @@ Projects i'm working on with my Cal Poly ED2Go Course
 
 10/19/19 : Added fonts to the Runners Home Practice Site
            Worked with some color and opacity for a story site
+           Added some design to the text of the runners home site
