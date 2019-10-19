@@ -1,0 +1,35 @@
+#pooh > h2 {
+  color: #fbe731;
+}
+
+#pooh > p {
+  color: #c3b002;
+}
+
+#pooh > img {
+  opacity: 0.2;
+}
+
+#alice > h2 {
+  color: #72025e;
+}
+
+#alice > p {
+  color: #fd4edd;
+}
+
+#alice > img {
+  opacity: 1;
+}
+
+#naughty-boy > h2 {
+  color: #4eb1fd;
+}
+
+#naughty-boy > p {
+  color: #0361a9;
+}
+
+#naughty-boy > img {
+  opacity: 0.9;
+}
