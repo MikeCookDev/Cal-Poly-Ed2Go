@@ -6,4 +6,5 @@ Projects i'm working on with my Cal Poly ED2Go Course
 
 10/17/19 : Refresher Course on CSS basics including internal,external, and embedded styles aswell as divs and spans.
 
-10/19/19 : Added fonts to the RUnners Home Practice Site
+10/19/19 : Added fonts to the Runners Home Practice Site
+           Worked with some color and opacity for a story site
