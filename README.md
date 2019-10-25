@@ -9,3 +9,6 @@ Projects i'm working on with my Cal Poly ED2Go Course
 10/19/19 : Added fonts to the Runners Home Practice Site
            Worked with some color and opacity for a story site
            Added some design to the text of the runners home site
+           
+10/24/19 : Added more text design to the runners home app (including practicing with letter spacing, text-align, ,text-decoration, 
+           text-indent,text-shadow, text-transform, white-space, word-break,and  word-spacing)
