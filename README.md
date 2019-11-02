@@ -12,3 +12,5 @@ Projects i'm working on with my Cal Poly ED2Go Course
            
 10/24/19 : Added more text design to the runners home app (including practicing with letter spacing, text-align, ,text-decoration, 
            text-indent,text-shadow, text-transform, white-space, word-break,and  word-spacing)
+           
+11/2/2019 : Added background stylings to the runners home app.
