@@ -14,3 +14,5 @@ Projects i'm working on with my Cal Poly ED2Go Course
            text-indent,text-shadow, text-transform, white-space, word-break,and  word-spacing)
            
 11/2/2019 : Added background stylings to the runners home app.
+
+11/5/2019 : Uplaoded some practice with Pseudo-classes and Pseudo-elements to the runners app.
