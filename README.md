@@ -16,3 +16,5 @@ Projects i'm working on with my Cal Poly ED2Go Course
 11/2/2019 : Added background stylings to the runners home app.
 
 11/5/2019 : Uplaoded some practice with Pseudo-classes and Pseudo-elements to the runners app.
+
+11/7/2019 : Practice styling tables for the runners home app.
