@@ -20,3 +20,4 @@ Projects i'm working on with my Cal Poly ED2Go Course
 11/7/2019 : Practice styling tables for the runners home app.
 
 11/9/2019 : Practiced Positioning with a new page for the runners home app.
+            Practiced ANimations with transform and transition.
