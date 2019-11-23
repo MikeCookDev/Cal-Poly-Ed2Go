@@ -21,3 +21,5 @@ Projects i'm working on with my Cal Poly ED2Go Course
 
 11/9/2019 : Practiced Positioning with a new page for the runners home app.
             Practiced ANimations with transform and transition.
+
+11/23/2019 : Practiced with JavaScript Variables, arrays, and operators.
